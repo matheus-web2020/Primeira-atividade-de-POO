@@ -1,0 +1,13 @@
+C:\Users\Matheus\Desktop\PrimeiraAtividadePOO\bin\Debug\netcoreapp3.1\PrimeiraAtividadePOO.exe
+C:\Users\Matheus\Desktop\PrimeiraAtividadePOO\bin\Debug\netcoreapp3.1\PrimeiraAtividadePOO.deps.json
+C:\Users\Matheus\Desktop\PrimeiraAtividadePOO\bin\Debug\netcoreapp3.1\PrimeiraAtividadePOO.runtimeconfig.json
+C:\Users\Matheus\Desktop\PrimeiraAtividadePOO\bin\Debug\netcoreapp3.1\PrimeiraAtividadePOO.runtimeconfig.dev.json
+C:\Users\Matheus\Desktop\PrimeiraAtividadePOO\bin\Debug\netcoreapp3.1\PrimeiraAtividadePOO.dll
+C:\Users\Matheus\Desktop\PrimeiraAtividadePOO\bin\Debug\netcoreapp3.1\PrimeiraAtividadePOO.pdb
+C:\Users\Matheus\Desktop\PrimeiraAtividadePOO\obj\Debug\netcoreapp3.1\PrimeiraAtividadePOO.csprojAssemblyReference.cache
+C:\Users\Matheus\Desktop\PrimeiraAtividadePOO\obj\Debug\netcoreapp3.1\PrimeiraAtividadePOO.csproj.CoreCompileInputs.cache
+C:\Users\Matheus\Desktop\PrimeiraAtividadePOO\obj\Debug\netcoreapp3.1\PrimeiraAtividadePOO.AssemblyInfoInputs.cache
+C:\Users\Matheus\Desktop\PrimeiraAtividadePOO\obj\Debug\netcoreapp3.1\PrimeiraAtividadePOO.AssemblyInfo.cs
+C:\Users\Matheus\Desktop\PrimeiraAtividadePOO\obj\Debug\netcoreapp3.1\PrimeiraAtividadePOO.dll
+C:\Users\Matheus\Desktop\PrimeiraAtividadePOO\obj\Debug\netcoreapp3.1\PrimeiraAtividadePOO.pdb
+C:\Users\Matheus\Desktop\PrimeiraAtividadePOO\obj\Debug\netcoreapp3.1\PrimeiraAtividadePOO.genruntimeconfig.cache
